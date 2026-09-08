@@ -1,4 +1,4 @@
---TABLES
+-- TABLES
 CREATE TABLE `games` (
   `id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(100) NOT NULL,
